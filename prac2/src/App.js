@@ -14,7 +14,7 @@ const App = () => {
     return <div style={squareStyle}>{props.vegetableName}</div>;
   };
   const App = () => {
-    const vegetables = ["감자", "고구마", "오이", "가지", "옥수수"];
+    const vegetables = ["감자", "고구마", "오이", "가지", "애호박"];
 
     const style = {
       padding: "100px",
