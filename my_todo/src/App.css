@@ -1,0 +1,17 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.todo {
+  width: 100px;
+  height: 100px;
+  border: 1px seagreen solid;
+  padding : 5px;
+  border-radius: 8px;
+}
+
+.todos-container {
+  display: flex;
+  gap: 12px;
+}
